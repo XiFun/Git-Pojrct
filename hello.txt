@@ -1,2 +1,2 @@
 This is the first Git project file
-this version is hot-fix
+don't need hot-fix
