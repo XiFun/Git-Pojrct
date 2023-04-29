@@ -38,6 +38,7 @@ public class AppTest {
             //参数：第一个是查询到的集合，第二个是展示的页码个数（类似于页面中展示的当前页面，和当前页面左右两边的页码）
             PageInfo<User> page=new PageInfo<User>(users,5);
             System.out.println(page);
+            System.out.println("Secon version");
 
         } catch (IOException e) {
             e.printStackTrace();
